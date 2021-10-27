@@ -10,7 +10,7 @@
 
 - 🔎    Estou Disponével Para o Mercado de Trabalho.
 
-- 💻    Todos os Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
+- 💻    Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
 
 - 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT ,REACT**...
 
