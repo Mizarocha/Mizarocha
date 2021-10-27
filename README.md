@@ -1,5 +1,5 @@
  
-<img align="right" height="350em"
+<img align="right" height="260em"
 src="https://user-images.githubusercontent.com/88461178/139093542-9ba785b2-41e2-494e-9463-78603aeb80fc.png"/>
 <h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá Eu Sou Artemiza!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizarocha&color=yellow" alt="Profile views" /> </p>
