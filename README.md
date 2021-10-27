@@ -6,11 +6,11 @@ src="https://user-images.githubusercontent.com/88461178/139093542-9ba785b2-41e2-
 
 - 👩‍🎓    Estudante de Desenvolvimento de Software.
 
-- 🏫   Plataforma de Ensino :https://web.digitalinnovation.one/.
+- 🏫   Plataforma de Ensino:https://web.digitalinnovation.one/.
 
 - 🔎    Estou Disponével Para o Mercado de Trabalho.
 
-- 💻    Todos os Meus Projetos Estão no GiTHub https://github.com/Mizarocha.
+- 💻    Todos os Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
 
 - 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT ,REACT**...
 
