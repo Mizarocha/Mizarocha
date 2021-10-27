@@ -5,7 +5,7 @@
 
 - 👩‍🎓    Estudante de Desenvolvimento de Software.
 
-- 🏫   Plataforma de Acesso :https://web.digitalinnovation.one/.
+- 🏫   Plataforma de Ensino :https://web.digitalinnovation.one/.
 
 - 🔎    Estou Disponével Para o Mercado de Trabalho.
 
