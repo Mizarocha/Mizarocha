@@ -1,5 +1,6 @@
  
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Mizarocha/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="350em"
+src="https://user-images.githubusercontent.com/88461178/139093542-9ba785b2-41e2-494e-9463-78603aeb80fc.png"/>
 <h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá Eu Sou Artemiza!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizarocha&color=yellow" alt="Profile views" /> </p>
 
@@ -12,6 +13,10 @@
 - 💻    Todos os Meus Projetos Estão no GiTHub https://github.com/Mizarocha.
 
 - 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT ,REACT**...
+
+- 📱     Contato: **(31) 99315-3521**
+
+
  
  
  
@@ -33,14 +38,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&theme=vision-friendly-dark" alt="Mizarocha's most languages"/>
-</p>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
 
 
-## 🔛 &nbsp;Social
 
-<img src="https://img.shields.io/badge/Artemiza Rocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
-<img src="https://img.shields.io/badge/Mizarocha-100000?style=for-the-badge&logo=github&logoColor=white" /> 
+
