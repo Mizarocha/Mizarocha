@@ -14,7 +14,7 @@
 
 - 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT ,REACT**...
 
-- 📱     Contato: **(31) 99315-3521**
+- 📱     Contato: **(31) 99315-3521**.
 
 
  
