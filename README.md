@@ -8,7 +8,7 @@
 
 - 🏫   Plataforma de Ensino:https://web.digitalinnovation.one/.
 
-- 🔎    Estou Disponével Para o Mercado de Trabalho.
+- 🔎    Estou Disponível Para o Mercado de Trabalho.
 
 - 💻    Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
 
