@@ -38,6 +38,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
+ 
  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&theme=vision-friendly-dark" alt="Mizarocha's most languages"/>
 </p>
 
