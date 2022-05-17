@@ -4,7 +4,7 @@
 <h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá Eu Sou Artemiza!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizarocha2&color=yellow" alt="Profile views" /> </p>
 
-- 👩‍🎓    Estudante de Desenvolvimento de Software.
+- 👩‍🎓    Desenvolvimento de Software Front End
 
 - 🏫   Plataforma de Ensino:https://web.digitalinnovation.one/.
 
@@ -12,7 +12,7 @@
 
 - 💻    Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
 
-- 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT ,REACT**...
+- 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT, REACTJS, .NET, GIT...
 
 - 📱     Contato: **(31) 99315-3521**
 
