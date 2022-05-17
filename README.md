@@ -12,7 +12,7 @@
 
 - 💻    Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
 
-- 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT, REACTJS, .NET, GIT...
+- 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT, REACTJS, .NET, GIT...**
 
 - 📱     Contato: **(31) 99315-3521**
 
