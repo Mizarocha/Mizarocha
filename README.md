@@ -6,7 +6,7 @@
 
 - 👩‍🎓    Desenvolvimento de Software Front End
 
-- 🏫   Plataforma de Ensino:https://web.dio.me/.
+- 🏫   Plataforma de Ensino:https://web.dio.me/home.
 
 - 🔎    Estou Disponível Para o Mercado de Trabalho.
 
