@@ -4,17 +4,17 @@
   <h1>Hello, I'm Artemiza!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizarocha2&color=yellow" alt="Profile views" /> </p>
 
-- 👩‍🎓    Desenvolvimento de Software Front End
+- 👩‍    Desenvolvedora de Software Front End
 
 - 🏫   Plataforma de Ensino:https://web.dio.me/home.
 
-- 🔎    Estou Disponível Para o Mercado de Trabalho.
+- 🚀    Estou Disponível Para o Mercado de Trabalho.
 
 - 💻    Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
 
-- 📚     Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT, REACTJS, .NET, GIT...**
+- 📚   Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT, REACTJS, .NET, GIT...**
 
-- 📱     Contato: **(31) 99315-3521**
+- 📱      Contato: **(31) 99315-3521**
 
 
  
@@ -49,5 +49,5 @@
   <a href="https://www.linkedin.com/in/artemiza-rocha-59a3b4210" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Artemiza-05122?style=flat&logo=linkedin" alt="linkedin"/>
    
-  
-
+    <a href="https://github.com/Mizarocha" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=GitHub=white" alt="GitHub"/>
