@@ -47,7 +47,10 @@
 ## 🔛  Link Social
 
   <a href="https://www.linkedin.com/in/artemiza-rocha-59a3b4210" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Artemiza-05122?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122?style=flat&logo=linkedin" alt="linkedin"/>
    
-    <a href="https://github.com/Mizarocha" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=GitHub=white" alt="GitHub"/>
+   
+   
+  <img align="center" src="https://img.shields.io/badge/-GitHub-05122?style=flat&logo=github" alt="github"/>
+   
+  
