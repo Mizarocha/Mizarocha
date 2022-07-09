@@ -20,15 +20,16 @@
  
 ## 🛠 &nbsp; Tecnologias!
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-MARKDOWN-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Angular](https://img.shields.io/badge/-ANGULAR-05122A?style=flat&logo=angular)&nbsp;
 
 
 <br><br>
@@ -46,7 +47,7 @@
 
 ## 🔛  Link Social
 
-  <a href="https://www.linkedin.com/in/artemiza-rocha/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122?style=flat&logo=linkedin" alt="linkedin"/>
-   
-
+  <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  
+   <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
