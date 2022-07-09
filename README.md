@@ -12,8 +12,6 @@
 
 - 💻    Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
 
-- 📚   Minhas Linguagens de Estudo São: **HTML, CSS, JAVASCRIPT, REACTJS, .NET, GIT...**
-
 - 📱      Contato: **(31) 99315-3521**
 
 
@@ -32,16 +30,18 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
  
- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&theme=vision-friendly-dark" alt="Mizarocha's most languages"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&theme=vision-friendly-dark" alt="Mizarocha's most languages"/>
 </p>
-
+</div>
+ 
  <br><br>
 
 ## 🔛  Link Social
@@ -49,4 +49,4 @@
   <a href="https://www.linkedin.com/in/artemiza-rocha/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122?style=flat&logo=linkedin" alt="linkedin"/>
    
-  
+
