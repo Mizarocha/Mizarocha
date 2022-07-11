@@ -38,16 +38,12 @@
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&theme=vision-friendly-dark" alt="Mizarocha's most languages"/>
-</p>
-</div>
- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+ </div>
  <br><br>
 
 ## 🔛  Link Social
 
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
-   <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
