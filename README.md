@@ -24,9 +24,10 @@
 ![React](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
+![Angular](https://img.shields.io/badge/-ANGULAR-05122A?style=flat&logo=angular)&nbsp;
 ![Markdown](https://img.shields.io/badge/-MARKDOWN-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Angular](https://img.shields.io/badge/-ANGULAR-05122A?style=flat&logo=angular)&nbsp;
+
 
 
 <br><br>
