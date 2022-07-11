@@ -1,8 +1,5 @@
- 
-   <img align="right" height="260em"
-   src="https://user-images.githubusercontent.com/88461178/139093542-9ba785b2-41e2-494e-9463-78603aeb80fc.png"/>
-  <h1>Hello, I'm Artemiza!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizarocha2&color=yellow" alt="Profile views" /> </p>
+
+  <h1>Hello, I'm Artemiza!</h1> <img align="right" width="75" src="https://media0.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif?       cid=ecf05e47bvtq43ubdc7bsff9jerhd9hm3jylycjovnb52esv&rid=giphy.gif&ct=s"/></h2>
 
 - 👩‍    Desenvolvedora de Software Front End
 
@@ -18,7 +15,7 @@
  
 <br><br>
  
-## 🛠 &nbsp; Tecnologias!
+## 📚 Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-NODE.JS-05122A?style=flat&logo=node.js)&nbsp;
@@ -34,7 +31,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ Estatísticas
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
@@ -42,7 +39,7 @@
  </div>
  <br><br>
 
-## 🔛  Link Social
+## 🔛 Contatos
 
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
