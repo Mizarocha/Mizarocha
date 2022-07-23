@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/node.js-%05122A.svg?style=for-the-badge&logo=node.js&logoColor" />
 <img src="https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Github-%23323330.svg?style=for-the-badge&logo=github&logoColor" />
-<img src"https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor" />
+<img src="https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor" />
+
 
 
 </div>
