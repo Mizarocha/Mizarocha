@@ -3,7 +3,7 @@
 
 - 👩‍    Desenvolvedora de Software Front End
 
-- 🏫   Plataforma de Ensino:https://web.dio.me/home.
+- 🏫   Cursando Análise e Desenvolvimento de Sistemas
 
 - 🚀    Estou Disponível Para o Mercado de Trabalho.
 
