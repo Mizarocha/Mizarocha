@@ -38,7 +38,7 @@
 
 <br><br>
  
- ### Total de visitas no meu perfil:
+ ## 🕵️‍♀️ Total de visitas no meu perfil:
    ##
   
  <p align="center"> 
