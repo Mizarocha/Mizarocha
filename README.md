@@ -11,8 +11,6 @@
 
 - 📱      Contato: **(31) 99315-3521**
 
-
- 
 <br><br>
  
 ## 📚 Conhecimentos
@@ -28,18 +26,10 @@
 <img src="https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor" />
 
 
-
 </div>
 
+
 <br><br>
-
-## ⚙️ Estatísticas
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
- </div>
- <br><br>
 
 ## 🔛 Contatos
 
