@@ -35,3 +35,12 @@
 
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+<br><br>
+ 
+ ### Total de visitas no meu perfil:
+   ##
+  
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Mizarocha/count.svg" />
+ </p>
