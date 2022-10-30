@@ -38,9 +38,3 @@
 
 <br><br>
  
- ## 🕵️‍♀️ Total de visitas no meu perfil:
-   ##
-  
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Mizarocha/count.svg" />
- </p>
