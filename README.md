@@ -5,9 +5,9 @@
 
 - 🏫   Cursando Análise e Desenvolvimento de Sistemas
 
-- 🚀    Estou Disponível Para o Mercado de Trabalho.
+- 🚀    Disponível Para o Mercado de Trabalho
 
-- 💻    Meus Projetos Estão no GiTHub:https://github.com/Mizarocha.
+- 💻    Email: miza-pma@hotmail.com
 
 - 📱      Contato: **(31) 99315-3521**
 
@@ -25,12 +25,19 @@
 <img src="https://img.shields.io/badge/Github-%23323330.svg?style=for-the-badge&logo=github&logoColor" />
 <img src="https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor" />
 
-
 </div>
-
 
 <br><br>
 
+## ⚙ Estatísticas
+
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=shades-of-purple) |
+
+
+                 
+<br><br>
 ## 🔛 Contatos
 
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
