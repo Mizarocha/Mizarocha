@@ -1,7 +1,11 @@
 
-  <h1>Hello, I'm Artemiza!</h1> <img align="right" width="75" src="https://media0.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif?       cid=ecf05e47bvtq43ubdc7bsff9jerhd9hm3jylycjovnb52esv&rid=giphy.gif&ct=s"/></h2>
+ <h1 align="center"> Olá sou Artemiza!  </h1>
 
-- 👩‍    Desenvolvedora de Software Front End
+<p align='center'>
+  Desenvolvedora Front-End 👩‍💻
+</p>
+
+<br><br>
 
 - 🏫   Cursando Análise e Desenvolvimento de Sistemas
 
