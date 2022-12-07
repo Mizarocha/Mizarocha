@@ -1,23 +1,24 @@
 
- <h1 align="center"> Olá sou Artemiza!  </h1>
+ <h1 align="center"> Hi I am Artemiza!  </h1>
 
 <p align='center'>
-  Desenvolvedora Front-End 👩‍💻
+  Front End Developer 👩‍💻
 </p>
 
-<br><br>
+<br>
 
-- 🏫   Cursando Análise e Desenvolvimento de Sistemas
+- 🏫   Studying Systems Analysis and Development
 
-- 🚀    Disponível Para o Mercado de Trabalho
+- 🚀    Available for the Labor Market
 
 - 💻    Email: miza-pma@hotmail.com
 
-- 📱      Contato: **(31) 99315-3521**
+- 📱    Contact: **(31) 99315-3521**
 
-<br><br>
+
+<br>
  
-## 📚 Conhecimentos
+## 📚 Languages
 
 <div style="display: inline_block">
 
@@ -33,16 +34,17 @@
 
 <br><br>
 
-## ⚙ Estatísticas
+## ⚙ Statistics
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=shades-of-purple) |
-
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+ </di>
+ <br><br>
 
                  
 <br><br>
-## 🔛 Contatos
+## 🔛 Contacts
 
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
