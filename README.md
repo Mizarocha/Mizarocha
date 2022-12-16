@@ -1,19 +1,21 @@
 
- <h1 align="center"> Hi I am Artemiza!  </h1>
+ <h1 align="center"> Hi I am Artemiza!</h1>
+ 
+ <p align="center">
+  Front End Developer 👩‍💻 </p>
 
-<p align='center'>
-  Front End Developer 👩‍💻
-</p>
-
+<img align="right" width="250" alt="Eu" src="https://user-images.githubusercontent.com/88461178/208158345-2df85e01-77cc-479e-897f-b52c84d8f76e.gif" />
 <br>
 
-- 🏫   Studying Systems Analysis and Development
+ 🎼    Apaixonada por música 
 
-- 🚀    Available for the Labor Market
+ 🏫   Studying Systems Analysis and Development
 
-- 💻    Email: miza-pma@hotmail.com
+ 🚀    Available for the Labor Market
 
-- 📱    Contact: **(31) 99315-3521**
+ 💻    Email: miza-pma@hotmail.com
+
+ 📱    Contact: **(31) 99315-3521**
 
 
 <br>
