@@ -1,55 +1,64 @@
 
- <h1 align="center"> Hi I am Artemiza!</h1>
+ <h1 align="center"> Olá, sou Artemiza!</h1>
  
- <p align="center">
-  Front End Developer 👩‍💻 </p>
+ <img align="left" width="300" alt="miza" src="https://user-images.githubusercontent.com/88461178/208158345-2df85e01-77cc-479e-897f-b52c84d8f76e.gif" />
 
-<img align="right" width="250" alt="Eu" src="https://user-images.githubusercontent.com/88461178/208158345-2df85e01-77cc-479e-897f-b52c84d8f76e.gif" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+Front-End+Junior)](https://git.io/typing-svg)
+
 <br>
 
  🎼    Apaixonada por música 
 
- 🏫   Studying Systems Analysis and Development
+ 🏫   Estudante de Análise e Desenvolvimento de Sistemas
 
- 🚀    Available for the Labor Market
-
- 💻    Email: miza-pma@hotmail.com
-
- 📱    Contact: **(31) 99315-3521**
+ 🚀    Disponível para o mercado de trabalho
+ 
+ 💻    E-mail: miza-pma@hotmail.com    
+ 
+ 📱    Contato: **(31) 99315-3521**
 
 
 <br>
  
-## 📚 Languages
+<h2 align="center">Linguagens e Ferramentas</h2>
+  <h3 align="center">Front End</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/>
 
-<div style="display: inline_block">
+<br>
+ 
+ <h3 align="center">Back End</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/>           
+  </p>
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/node.js-%05122A.svg?style=for-the-badge&logo=node.js&logoColor" />
-<img src="https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Github-%23323330.svg?style=for-the-badge&logo=github&logoColor" />
-<img src="https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor" />
 
-</div>
+<h3 align="center">Ferramentas</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/>
+  </p>
 
-<br><br>
-
-## ⚙ Statistics
+<h2 align="center">Estatísticas</h2>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
  </di>
- <br><br>
-
-                 
-<br><br>
-## 🔛 Contacts
+ 
+ <br>
+ 
+## 🔛 Contatos
 
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-1C6B94?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <br><br>
  
