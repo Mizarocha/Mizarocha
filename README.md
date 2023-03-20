@@ -22,7 +22,7 @@
 
 <br></bh>
  
-<h2 align="center">Linguagens e Ferramentas</h2>
+<h2 align="center">Languages and Tools</h2>
   <h3 align="center">Front End</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
@@ -40,7 +40,7 @@
   </p>
 
 
-<h3 align="center">Ferramentas</h3>
+<h3 align="center">Tools</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
@@ -48,7 +48,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/>
   </p>
 
-<h2 align="center">Estatísticas</h2>
+<h2 align="center">Statistics</h2>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/> 
@@ -57,7 +57,7 @@
  
  <br>
  
-## 🔛 Contatos
+## 🔛 Contacts
 
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-1C6B94?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
