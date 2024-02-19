@@ -23,7 +23,6 @@
 <br></bh>
 
 
- 
 <h2 align="center">Languages and Tools</h2>
 
   <h3 align="center">Front End</h3>
