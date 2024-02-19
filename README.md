@@ -21,7 +21,7 @@
 
 
 <br></bh>
-
+<br>
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -33,6 +33,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/>
+</p>
 
 <br>
  
