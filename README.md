@@ -33,15 +33,12 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/>
 </p>
 
-<br>
- 
- <h3 align="center">Back End</h3>
+<h3 align="center">Back End</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/>           
   </p>
-
 
 <h3 align="center">Tools</h3>
   <p align="center">
