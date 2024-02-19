@@ -25,6 +25,8 @@
 
 <h2 align="center">Languages and Tools</h2>
 
+<br>
+
   <h3 align="center">Front End</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
