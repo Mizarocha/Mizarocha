@@ -11,7 +11,7 @@
 
  🎼   In love with music
 
- 🏫   Systems Analysis and Development Student
+ 🏫   Degree in Systems Snalysis and Sevelopment
 
  🚀    Available for the job market
  
