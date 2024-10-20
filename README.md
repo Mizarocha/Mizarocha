@@ -32,12 +32,6 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
    </p>
 
-<h3 align="center" hide>Back End</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/>           
-  </p>
 
 <h3 align="center">Tools</h3>
   <p align="center">
