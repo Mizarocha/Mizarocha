@@ -30,6 +30,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
+   <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/1C6B94"/>
    </p>
 
 
