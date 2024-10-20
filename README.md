@@ -37,9 +37,8 @@
 <h3 align="center">Tools</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/1C6B94"/>    
+     <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/figma/1C6B94"/>
   </p>
 
