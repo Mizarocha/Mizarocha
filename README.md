@@ -11,7 +11,7 @@
 
  🎼   In love with music
 
- 🏫   Degree in Systems Snalysis and Sevelopment
+ 🏫   Cursando Pós Graduação em Experiência do Usuário (UX Designer)
 
  🚀    Available for the job market
  
