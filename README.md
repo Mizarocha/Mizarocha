@@ -9,21 +9,21 @@
 
 <br>
 
- 🎼   In love with music
+ 🎼  Sou apaixonada por Música
 
  🏫  Pós Graduação em Experiência do Usuário (UX Designer)
 
- 🚀    Available for the job market
+ 🚀    Disponível para o Mercado de Trabalho
  
  💻    Email: miza-pma@hotmail.com    
  
- 📱    Contact: **(31) 99315-3521**
+ 📱    Contato: **(31) 99315-3521**
 
 
 <br></bh>
 <br>
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Ferramentas</h2>
 
 <h3 align="center">Front End</h3>
   <p align="center">
@@ -35,7 +35,7 @@
    </p>
 
 
-<h3 align="center">Tools</h3>
+<h3 align="center">UX/UI Design </h3>
   <p align="center">
      <img height="40" width="40" src="https://cdn.simpleicons.org/figma/1C6B94"/>
      <img height="40" width="40" src="https://cdn.simpleicons.org/framer/1C6B94"/>    
@@ -45,7 +45,7 @@
   
   </p>
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Estatísticas</h2>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark" alt="Mizarochac&show_icons=true&theme=vision-friendly-dark" alt="Mizarocha's stats"/> 
@@ -54,7 +54,7 @@
  
  <br>
  
-## 🔛 Contacts
+## 🔛 Contatos
 
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-080707?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
