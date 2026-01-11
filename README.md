@@ -48,17 +48,23 @@
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Mizarocha&show_icons=true&theme=vision-friendly-dark&cache_seconds=86400"/>
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=vision-friendly-dark&cache_seconds=86400"/>
 </div>
 
-  <br>
- 
-## 🔛 Contatos
 
+
+
+  <br>
+
+## 🔛 Contatos
+ <p align="center">
   <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-080707?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://www.behance.net/artemizarocha" target="_blank"><img src="https://img.shields.io/badge/-Behance-E52b86?style=for-the-badge&logo=bahance&logoColor=white" target="_blank"></a>
-
+  </p>
 <br><br>
  
