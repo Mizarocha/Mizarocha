@@ -11,7 +11,7 @@
 
  🎼  Sou apaixonada por Música
 
- 🏫  Cursando Pós em Experiência do Usuário (UX Designer)
+ 🏫  Pós-graduada em Experiência do Usuário (UX Design)
 
  🚀    Disponível para o Mercado de Trabalho
  
